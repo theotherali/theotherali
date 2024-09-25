@@ -1,6 +1,6 @@
 ## Hi There! I'm Ali Bakhshi
 
-### 🧑🏼‍💻 &nbsp; About Me
+### (〜￣▽￣)〜 &nbsp; About Me
 - 🌍  I'm based in Iran (Arak)
 - 🎓  &nbsp;Student of Computer software Subject In University
 - 💼  &nbsp;Working as a Frontend Developer
