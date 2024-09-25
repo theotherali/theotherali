@@ -34,48 +34,35 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
-<!--
-![icons8-html-5(1)](https://github.com/user-attachments/assets/a6a87e52-8563-447b-ade5-d6cf18585326)
-![icons8-css3(1)](https://github.com/user-attachments/assets/3acb89f2-f1a0-44cf-9b43-c8f1f8f73554)
-![icons8-tailwind-css(1)](https://github.com/user-attachments/assets/81098f96-5474-496b-a16f-dcdcce6f3225)
-![icons8-javascript(1)](https://github.com/user-attachments/assets/11431a3f-adcf-4666-b37c-38427c8dff8c)
-![icons8-react-native](https://github.com/user-attachments/assets/5618d80c-e3e2-4968-a37f-06b0d8c85eeb)
-![icons8-mongo-db-64](https://github.com/user-attachments/assets/2db190f4-2c05-4b38-8b40-9e19145cddfb)
-![icons8-bootstrap(1)](https://github.com/user-attachments/assets/3382b3e1-eb71-45c2-ae8d-385137166e9c)
--->
-
 <br />
 <br />
 
 ## ⚡️ &nbsp; Github Stats
+
 <br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotherali" /> &nbsp; &nbsp; &nbsp;
+  
   ![Ali Bakhshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=theotherali&show_icons=true&theme=dark#gh-dark-mode-only)
+  
 <br />
 <br />
-<br />
-<!--
+
 ## Social
 
-<p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b6accffc-1f50-4a93-ba98-474752a386dc" width="32" height="32" alt="instagram"/></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/26582817-aa1b-4675-84f0-e0b73f6db963" width="32" height="32" alt="telegram"/></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/334882bf-92cc-4c55-830e-6efc6c05a0bd" width="32" height="32" alt="linkedin"/></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://sabzlearn.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
-  </a>
-  <a href="https://instagram.com/rad_front/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+<p>
+  <a href="https://t.me/devbyali/">
+    <img src="https://img.shields.io/badge/Telegram-@devbyali-blue?style=flat&logo=telegram" />
   </a>
 </p>
--->
+<p>
+  <a href="https://t.me/devbyali/">
+    <img src="https://img.shields.io/badge/Linkedin-@theotheralibakhshi-yellow?style=flat&logo=linkedin" />
+  </a>
+</p>
+<p>
+  <a href="https://instagram.com/theotheralibakhshi/">
+    <img src="https://img.shields.io/badge/Instagram-@theotheralibakhshi-red?style=flat&logo=instagram" />
+  </a>
+</p>
+
