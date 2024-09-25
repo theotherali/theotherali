@@ -1,13 +1,16 @@
-## Hi There! I'm Ali Bakhshi
+## Hi There! I'm Ali Bakhshi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-### (〜￣▽￣)〜 &nbsp; About Me
-- 🌍  I'm based in Iran (Arak)
-- 🎓  &nbsp;Student of Computer software Subject In University
-- 💼  &nbsp;Working as a Frontend Developer
-- 🤝  I'm open to collaborating on React based projects
-- 🧠  Learning next js & Ts
-- ✉️  You can contact me at [alibakhshi962002@gmail.com](mailto:alibakhshi962002@gmail.com)
-- ☕  &nbsp;Coding And Drinking Coffee Are My Hobby :))
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+##### 🌍  I'm based in Iran (Arak)
+##### 🎓  &nbsp;Student of Computer software Subject In University
+##### 💼  &nbsp;Working as a Frontend Developer
+##### 🫱🏽‍🫲🏼  I'm open to collaborating on React based projects
+##### 🧠  Learning next js & Ts
+##### 📧  You can contact me at [alibakhshi962002@gmail.com](mailto:alibakhshi962002@gmail.com)
+##### 🎵  &nbsp;Coding And Drinking Coffee Are My Hobby (‾◡◝)
+
+### Only principles and expertise 💎
 
 <br />
 <br />
@@ -44,12 +47,10 @@
 <br />
 
 ## ⚡️ &nbsp; Github Stats
+<br />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=theotherali&show_icons=true&theme=radical" /> &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotherali" />
-</p
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotherali" /> &nbsp; &nbsp; &nbsp;
+  ![Ali Bakhshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=theotherali&show_icons=true&theme=dark#gh-dark-mode-only)
 <br />
 <br />
 <br />
