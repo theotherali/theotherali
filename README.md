@@ -2,15 +2,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-<p>🌍  I'm based in Iran (Arak) </p>
-<p>🎓  &nbsp;Student of Computer software Subject In University </p>
-<p>💼  &nbsp;Working as a Frontend Developer </p>
-<p>🫱🏽‍🫲🏼  I'm open to collaborating on React based projects </p>
-<p>🧠  Learning next js & Ts </p>
+<p>__/I'm based in Iran (Arak)🌍</p>
+<p>__/Student of Computer software Subject In University🎓</p>
+<p>__/Working as a Frontend Developer💼</p>
+<p>__/I'm open to collaborating on React based projects🫱🏽‍🫲🏼</p>
+<p>__/Learning next js & Ts🧠 </p>
 
-📧  You can contact me at [alibakhshi962002@gmail.com](mailto:alibakhshi962002@gmail.com)
+__/You can contact me at [alibakhshi962002@gmail.com](mailto:alibakhshi962002@gmail.com)📧
 
-<p>🎵  &nbsp;Coding And Drinking Coffee Are My Hobby (‾◡◝) </p>
+<p>__/Coding And Drinking Coffee Are My Hobby (‾◡◝) </p>
 
 ### Only principles and expertise 💎
 
