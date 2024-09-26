@@ -1,4 +1,4 @@
-## Hi There! I'm Ali Bakhshi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi There! I'm Ali Bakhshi
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -14,7 +14,6 @@
 
 ### Only principles and expertise 💎
 
-<br />
 <br />
 
 ## 🔧 &nbsp; Tech & Skill
@@ -35,17 +34,13 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br />
-<br />
 
 ## ⚡️ &nbsp; Github Stats
-
-<br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotherali" /> &nbsp; &nbsp; &nbsp;
   
   ![Ali Bakhshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=theotherali&show_icons=true&theme=dark#gh-dark-mode-only)
   
-<br />
 <br />
 
 ## Social
