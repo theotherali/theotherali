@@ -51,18 +51,18 @@
 ## Social
 
 <p>
-  <a href="https://t.me/devbyali/">
-    <img src="https://img.shields.io/badge/Telegram-@devbyali-blue?style=flat&logo=telegram" />
+  <a href="https://t.me/devby_ali/">
+    <img src="https://img.shields.io/badge/Telegram-@devby_ali-blue?style=flat&logo=telegram" />
   </a>
 </p>
 <p>
-  <a href="https://t.me/devbyali/">
+  <a href="https://www.linkedin.com/in/ali-bakhshi-b23b79300/">
     <img src="https://img.shields.io/badge/Linkedin-@theotheralibakhshi-yellow?style=flat&logo=linkedin" />
   </a>
 </p>
 <p>
   <a href="https://instagram.com/theotheralibakhshi/">
-    <img src="https://img.shields.io/badge/Instagram-@theotheralibakhshi-red?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@theotheralibakhshi-purple?style=flat&logo=instagram" />
   </a>
 </p>
 
