@@ -18,8 +18,6 @@ __/You can contact me at [alibakhshi962002@gmail.com](mailto:alibakhshi962002@gm
 
 ## 🔧 &nbsp; Tech & Skill
 <p>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/20ef77d5-354f-418c-b389-795bfb2185cb" alt="html5" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/7090ef78-0df7-404e-9222-0b1de1f11ee3" alt="css3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9e9c6606-d1ed-4929-a6ae-f996c77e564e" alt="Javascript" /></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/171f2886-599e-4334-bdcb-c1119ca980ff" alt="reactjs" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/5b25bf2a-5275-40b6-971a-00d56985a522" alt="tailwindCSS" /></a>
